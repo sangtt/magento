@@ -1,0 +1,1 @@
+php ecomdev-phpunit.php -a magento-config --db-name magento --base-url http://www.magento.sstechvn.com/
