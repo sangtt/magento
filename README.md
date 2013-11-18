@@ -1,1 +1,1 @@
-Magento 1.7.0
+Magento 1.8.0
